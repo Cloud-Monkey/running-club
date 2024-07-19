@@ -74,4 +74,6 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 
 # User story 3
 
-* 
+* _In order_ to automatically hide the poll as an administrator, I can pick the expiry date while publishing the poll.
+
+## User acceptance criteria 3
