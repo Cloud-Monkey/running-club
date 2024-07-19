@@ -66,3 +66,7 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 
 * [ ] Make a checkbox for anonymous feedback
 * [ ] Make checkbox "checked" as the default
+* [ ] Update the view (html and css) to include the checkbox and to show the name of the submitter
+* [ ] Update the controller function
+* [ ] Update test scripts
+* [ ] Test functionality
