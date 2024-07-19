@@ -35,11 +35,24 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 
 ------
 
-# user story 1
+# User story 1
 
 * _In order_ to provide my opinion with regards to a certain running topic or event as a user I can select and submit an answer from the poll
 
-# user story 2
+## Acceptance Criteria user story 1
+
+* The form for voting on polls should be available and visible
+* The poll should be in an appropriate area for the user
+* The poll should allow my option to be selcted and submitted
+
+## Tasks
+
+* design/style form format for new polls
+* Create form for polls template
+* implement polls into website area for voting by the user
+* Create submission functionality and user response on success
+
+# User story 2
 
 * _In order_ to provide anonymous feedback as a user, I can choose to hide my identity in the poll response.
 
@@ -48,3 +61,8 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 * The option should be provided as a checkbox.
 * The checkbox should be "checked" by default.
 * The option should appear next to the submit button.
+
+## Tasks
+
+* make a checkbox for anonymous feedback
+* make checkbox "checked" as the default
