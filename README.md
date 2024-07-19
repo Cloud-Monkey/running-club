@@ -47,9 +47,9 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 
 ## Tasks
 
-* [x] design/style form format for new polls
+* [x] Design/style form format for new polls
 * [ ] Create form for polls template
-* [ ] implement polls into website area for voting by the user
+* [ ] Implement polls into website area for voting by the user
 * [ ] Create submission functionality and user response on success
 
 # User story 2
@@ -64,5 +64,5 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 
 ## Tasks
 
-* make a checkbox for anonymous feedback
-* make checkbox "checked" as the default
+* [ ] Make a checkbox for anonymous feedback
+* [ ] Make checkbox "checked" as the default
