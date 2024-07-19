@@ -47,10 +47,10 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 
 ## Tasks
 
-* design/style form format for new polls
-* Create form for polls template
-* implement polls into website area for voting by the user
-* Create submission functionality and user response on success
+* [x] design/style form format for new polls
+* [ ] Create form for polls template
+* [ ] implement polls into website area for voting by the user
+* [ ] Create submission functionality and user response on success
 
 # User story 2
 
