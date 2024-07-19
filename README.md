@@ -35,10 +35,16 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 
 ------
 
-## user story 1
+# user story 1
 
 * _In order_ to provide my opinion with regards to a certain running topic or event as a user I can select and submit an answer from the poll
 
-## user story 2
+# user story 2
 
 * _In order_ to provide anonymous feedback as a user, I can choose to hide my identity in the poll response.
+
+## Acceptance Criteria user story 2
+
+* The option should be provided as a checkbox.
+* The checkbox should be "checked" by default.
+* The option should appear next to the submit button.
